@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+}
+
+div {
+  padding: 10px;
+
+}
+
+.first {
+  box-sizing: border-box;
+  background-color: #308dc0;
+  width: 350px;
+  margin-bottom: 40px;
+  border: solid 1px #e75551;
+}
+
+.second {
+  box-sizing: border-box;
+  background-color: #ffa500;
+  border: solid 1px #e75551;
+}
+
+.third {
+  box-sizing: border-box;
+
+  background-color: #ddd;
+  border: solid 1px #e75551;
+}
+
+.flexy {
+  display: flex;
+  flex-direction: column;
+}
